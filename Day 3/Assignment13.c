@@ -7,8 +7,9 @@ int main() {
     area = length * breadth;
     perimeter = 2 * (length + breadth);
 
-    printf("Area = %", area);
+    printf("Area = %f", area);
     printf("Perimeter = %f", perimeter);
 
     return 0;
+
 }
